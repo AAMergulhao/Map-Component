@@ -5,7 +5,7 @@ import Map from "./Map";
 const AppWrapper = styled.div`
     display: flex;
     justify-content: center;
-    margin-top: 100px;
+    margin-top: 50px;
 `;
 const Container =  styled.div`
 
